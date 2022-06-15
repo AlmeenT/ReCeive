@@ -1,6 +1,6 @@
 import React from 'react'
 import Timer from '../../Components/Timer/Timer'
-import Form from '../../Components/form/form'
+import Form from '../../Components/form/Form'
 import Footer from '../../Components/footer/Footer'
 import './LandingPage.css'
 
