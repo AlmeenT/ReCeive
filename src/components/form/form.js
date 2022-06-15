@@ -3,7 +3,7 @@ import './Form.css'
 
 const form = () => {
   return (
-    <div>
+    <div className="form-container">
       <form action="#" id="form">
         <div className="email">
           <input type="email" placeholder="Enter your email" />
