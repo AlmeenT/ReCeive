@@ -40,6 +40,7 @@ input[type="submit"]{
     border-top-right-radius: 5px;
 }
 .button > button {
+    width: 100px;
     height: 36px;
     border-bottom-right-radius: 5px;
     border-top-right-radius: 5px;
@@ -65,4 +66,5 @@ input[type="submit"]{
         width: 150px;
         
     }
+   
 }
