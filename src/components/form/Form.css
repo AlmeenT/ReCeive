@@ -10,7 +10,12 @@
     
 }
 
+.formContainer {
+    display: flex;
+}
+
 input[type='email']{
+    color: white;
     width: 300px;
     padding: 8px 8px;
     border: 1px solid orange;
@@ -23,7 +28,8 @@ input[type='email']{
 ::placeholder{
     color: white;
 }
-button{
+
+input[type="submit"]{
     background-color: rgba(255, 166, 0, 0.76);
     border: 1px solid rgba(255, 166, 0, 0.699);
     color: rgb(252, 252, 252);
@@ -32,6 +38,19 @@ button{
     padding: 8px 8px;
     border-bottom-right-radius: 5px;
     border-top-right-radius: 5px;
+}
+.button > button {
+    height: 36px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 8px 8px;
+    background-color: rgba(255, 166, 0, 0.76);
+    border: 1px solid rgba(255, 166, 0, 0.699);
+
+
+
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
