@@ -1,15 +1,19 @@
 .logo {
     margin-left: 5%;
-    color: white;
-    font-style: italic;
+    display: flex;
+}
+
+.first, .sec {
+    margin-top:1.5%;
 }
 
 .Tagline{
     font-size:9px;
-    margin-left:5%;
+    margin-left:15%;
+    margin-top:0%;
     color: white;
     position: relative;
-    top: -20px
+    top: -40px
 }
 
 .Introtext {
