@@ -22,3 +22,18 @@
     position: relative;
     top: 80px;
 }
+
+@media (min-width: 320px) and (max-width: 480px) {
+    .first, .sec {
+        margin-top:6.5%;
+    }
+    
+    .Tagline{
+        margin-left:40%;       
+    }
+
+    .Introtext {
+        margin-top:-10%;
+        margin-bottom: 30%;
+    }
+}
