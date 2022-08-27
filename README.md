@@ -1,4 +1,4 @@
-#Receive's Coming Soon Site
+# Receive's Coming Soon Site
 A one page web app for collecting adding visitor's email to our newsletter
 
 # Getting Started with Create React App
