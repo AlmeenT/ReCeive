@@ -1,3 +1,6 @@
+#Receive's Coming Soon Site
+A one page web app for collecting adding visitor's email to our newsletter
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
